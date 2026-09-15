@@ -1,4 +1,4 @@
-# Olá, eu sou Maria Paula 👋
+# Olá, me chamo Maria Paula 👋
 
 Sou estudante de Gestão da Tecnologia da Informação e estou me desenvolvendo na área de programação, com foco em desenvolvimento Full Stack. Atualmente, estou estudando e criando projetos para aprimorar meus conhecimentos e me preparar para atuar profissionalmente na área.
 
@@ -79,13 +79,3 @@ Fatec Guaratinguetá — 2024–2027
 
 **Técnico em Informática**  
 ETEC Professor Alfredo de Barros Santos — 2022–2023
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mPaulatech&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mPaulatech&layout=compact&langs_count=8&theme=dark"/>
-
-</div>
