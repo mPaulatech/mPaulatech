@@ -1,26 +1,21 @@
-# Olá, me chamo Maria Paula 👋
+# Olá, eu sou a Paula
 
-Sou estudante de GTI, focada em desenvolvimento Full Stack. Atualmente, estou estudando e desenvolvendo projetos para aprimorar meus conhecimentos.
+Sou júnior de TI. Tenho experiência em suporte N1/N2 e sou técnica em Informática (ETEC). Curso Gestão da Tecnologia da Informação na Fatec Guaratinguetá, com formatura prevista para dezembro de 2027.
 
-## 🚀 Roadmap
+## Objetivo
 
-### 🎨 Front-end
-- [x] HTML • CSS • JavaScript • ES6+
-- [ ] React • React 19 • TypeScript
-- [ ] Context API • Redux • Firebase • Testes
+Conseguir uma vaga na área de tecnologia, atuando com desenvolvimento e TI, e crescer profissionalmente nela.
 
-### 🔗 Full Stack
-- [ ] Next.js • App Router
-- [ ] Node.js • NestJS • APIs
-- [ ] Banco de dados • Autenticação • Testes
+## Tecnologias que sei hoje
 
-### 💳 SaaS
-- [ ] Pagamentos • Assinaturas • Deploy
-- [ ] Sistemas SaaS
+- HTML
+- CSS
+- JavaScript (ES6)
+- npm
+- Git e GitHub
+- Linux
 
-### 🔧 Git & GitHub
-- [x] Git • GitHub
-- [ ] Branches • Git avançado
+## Contato
 
-### 🎯 Objetivo
-Estou buscando oportunidades na área de Desenvolvimento como Júnior para aplicar meus conhecimentos em projetos reais e continuar evoluindo profissionalmente.
+- LinkedIn: [mpaulacsilva](https://www.linkedin.com/in/mpaulacsilva)
+- Email: smariapaula0625@gmail.com
