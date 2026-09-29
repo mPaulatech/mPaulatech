@@ -22,16 +22,6 @@ Busco uma oportunidade no mercado de Tecnologia atuando com desenvolvimento e TI
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 📌 Repositórios & O que estou praticando
-
-- 📚 **[courses](./courses):** Projetos, exercícios e notas de estudo dos cursos que realizo (incluindo Sujeito Programador e ecossistema NPM).
-- 💡 **[side-projects](./side-projects):** Projetos pessoais para colocar a teoria em prática — como o **[Weather App](https://mPaulatech.github.io/side-projects/Weather/)**, que consome API de previsão do tempo em tempo real.
-- 📝 **[exercises](./exercises):** Desafios de lógica de programação, algoritmos e manipulação do DOM.
-
----
-
 ## 📬 Vamos nos conectar?
 
 - 💼 **LinkedIn:** [mpaulacsilva](https://www.linkedin.com/in/mpaulacsilva)
