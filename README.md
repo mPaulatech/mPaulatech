@@ -1,27 +1,35 @@
 # 👋 Olá, eu sou a Paula!
 
-Sou técnica em Informática pela ETEC e atualmente curso **Gestão da Tecnologia da Informação** na Fatec Guaratinguetá (previsão de formatura em dez/2027). 
+Técnica em Informática pela ETEC e graduanda em **Gestão da Tecnologia da Informação** na Fatec Guaratinguetá (previsão de formatura em dez/2027).  
 
-Tenho experiência prática em **suporte N1/N2** e venho me dedicando diariamente aos estudos de **Desenvolvimento FullStack**, construindo projetos práticos para consolidar meus conhecimentos.
+Possuo experiência prática em **suporte N1/N2** e venho me dedicando intensamente ao **Desenvolvimento FullStack**, criando aplicações modernas para consolidar e expandir meus conhecimentos.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade no mercado de Tecnologia atuando com desenvolvimento e TI, onde eu possa aplicar minhas competências, contribuir com a equipe e evoluir constantemente como profissional.
+Busco oportunidades no mercado de Tecnologia atuando em **Desenvolvimento Web / TI**, onde eu possa aplicar minhas competências, agregar valor aos projetos da equipe e continuar evoluindo continuamente.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Ferramentas & Ambiente**
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ## 📬 Vamos nos conectar?
 
@@ -29,4 +37,5 @@ Busco uma oportunidade no mercado de Tecnologia atuando com desenvolvimento e TI
 - ✉️ **E-mail:** [smariapaula0625@gmail.com](mailto:smariapaula0625@gmail.com)
 
 ---
-*Agradeço a visita ao meu perfil! Sinta-se à vontade para explorar os repositórios.* 🚀
+
+> *Obrigada pela visita ao meu perfil! Sinta-se à vontade para explorar meus repositórios.* 🚀
