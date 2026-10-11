@@ -4,14 +4,6 @@ Técnica em Informática pela ETEC e graduanda em **Gestão da Tecnologia da Inf
 
 Possuo experiência prática em **suporte N1/N2** e venho me dedicando intensamente ao **Desenvolvimento FullStack**, criando aplicações modernas para consolidar e expandir meus conhecimentos.
 
----
-
-## 🎯 Objetivo
-
-Busco oportunidades no mercado de Tecnologia atuando em **Desenvolvimento Web / TI**, onde eu possa aplicar minhas competências, agregar valor aos projetos da equipe e continuar evoluindo continuamente.
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### **Frontend & Frameworks**
