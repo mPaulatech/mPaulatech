@@ -1,33 +1,31 @@
-# 👋 Olá, eu sou a Paula!
+# Olá! Eu sou a Maria Paula 👋
 
-Técnica em Informática pela ETEC e graduanda em **Gestão da Tecnologia da Informação** na Fatec Guaratinguetá (previsão de formatura em dez/2027).  
-
-Possuo experiência prática em **suporte N1/N2** e venho me dedicando intensamente ao **Desenvolvimento FullStack**, criando aplicações modernas para consolidar e expandir meus conhecimentos.
-
-## 🛠️ Tecnologias & Ferramentas
-
-### **Frontend & Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Ferramentas & Ambiente**
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> Sou estudante de Gestão da Tecnologia da Informação e desenvolvedora Full Stack. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
 
 ---
 
-## 📬 Vamos nos conectar?
+## 🛠️ Tecnologias e ferramentas
 
-- 💼 **LinkedIn:** [mpaulacsilva](https://www.linkedin.com/in/mpaulacsilva)
-- ✉️ **E-mail:** [smariapaula0625@gmail.com](mailto:smariapaula0625@gmail.com)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | HTML5, CSS3 e JavaScript (ES6+)<br>React.js (React 19)<br>Context API e Redux<br>TypeScript |
+| **Back-end** | Node.js<br>NestJS<br>Firebase |
+| **Frameworks e desenvolvimento** | Next.js (App Router)<br>React Native |
+| **Ferramentas** | Git e GitHub |
 
 ---
+
+## 🙋‍♀️ Sobre mim
+
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack e desenvolvendo projetos para colocar em prática o que aprendo nos estudos.
+
+Gosto de aprender novas tecnologias, resolver problemas e evoluir como desenvolvedora através da prática.
+
+---
+
+## 🌐 Onde me encontrar
+
+- **GitHub:** [github.com/mPaulatech](https://github.com/mPaulatech)
+- **Portfólio:** [site-portfolio-4vh.pages.dev](https://site-portfolio-4vh.pages.dev/)
 
 > *Obrigada pela visita ao meu perfil! Sinta-se à vontade para explorar meus repositórios.* 🚀
