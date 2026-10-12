@@ -1,6 +1,6 @@
 # Olá! Eu sou a Maria Paula
 
-Sou desenvolvedora Full Stack e estudante de Gestão da Tecnologia da Informaçã. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
+Sou desenvolvedora Full Stack e estudante de Gestão da Tecnologia da Informação. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
 
 ## Tecnologias e ferramentas
 
