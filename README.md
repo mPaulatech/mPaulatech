@@ -28,4 +28,3 @@ Gosto de aprender novas tecnologias, resolver problemas e evoluir como desenvolv
 
 - **GitHub:** [github.com/mPaulatech](https://github.com/mPaulatech)
 - **Portfólio:** [site-portfolio-4vh.pages.dev](https://site-portfolio-4vh.pages.dev/)
-- 
