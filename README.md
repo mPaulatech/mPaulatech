@@ -1,34 +1,33 @@
-# Olá! Eu sou a Maria Paula 👋
+Olá! Eu sou a Maria Paula
 
-Sou desenvolvedora Full Stack e estudante de Gestão da Tecnologia da Informação. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e colocar meus conhecimentos em prática através de projetos.
+Sou estudante de Gestão da Tecnologia da Informação na Fatec Guaratinguetá e Técnica em Informática pela ETEC. Tenho interesse em desenvolvimento web e estou construindo minha trajetória como desenvolvedora Full Stack, com foco atual em desenvolvimento Frontend.
 
-## Tecnologias e ferramentas
+Utilizo este espaço para compartilhar projetos pessoais, estudos e práticas, aplicando meus conhecimentos na construção de aplicações web e explorando novas tecnologias.
 
-**Front-end & Linguagens**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Tecnologias e ferramentas
 
-**Banco de dados**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Frontend
 
-**Ferramentas & Sistema**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%238957E5.svg?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Vite
 
-## Sobre mim
+Backend
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack e criando projetos para colocar em prática o que aprendo nos meus estudos.
+* Node.js
+* APIs REST
 
-Gosto de aprender novas tecnologias, resolver problemas e evoluir como desenvolvedora através da prática.
+Banco de dados
 
-## Onde me encontrar
+* MySQL
+* SQL
 
-- **GitHub:** [github.com/mPaulatech](https://github.com/mPaulatech)
-- **Portfólio:** [site-portfolio-4vh.pages.dev](https://site-portfolio-4vh.pages.dev/)
+Ferramentas e outros conhecimentos
+
+* Git e GitHub
+* npm
+* Linux
+* UI/UX Design
+* Scrum
