@@ -4,7 +4,7 @@ Sou estudante de Gestão da Tecnologia da Informação na Fatec Guaratinguetá e
 
 Utilizo este espaço para compartilhar projetos pessoais, estudos e práticas, aplicando meus conhecimentos na construção de aplicações web e explorando novas tecnologias.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
