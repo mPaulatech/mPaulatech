@@ -24,12 +24,14 @@ Utilizo este espaço para compartilhar projetos pessoais, estudos e práticas, a
 
 ## Ferramentas e outros conhecimentos
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-004088?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Coop](https://img.shields.io/badge/Coop-000000?style=for-the-badge&logo=coop&logoColor=white)
 
 ## Contatos
 
